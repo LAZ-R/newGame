@@ -11,7 +11,7 @@ def menuValueIsTrue(condition):
         try:
             val=(input(menuAskMsg))
             if val=="<3":
-                print("<3 U 2")
+                print("<3 U too")
                 pass
             else:
                 val=float(val)
